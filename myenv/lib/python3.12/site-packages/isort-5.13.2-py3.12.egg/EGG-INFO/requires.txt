@@ -1,0 +1,5 @@
+
+[colors]
+colorama>=0.4.6
+
+[plugins]
